@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hey！ Nice to meet you 👋
+
+🌱 I’m currently learning CQUPT, major in computer vision.
 
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ruhangs)
 
