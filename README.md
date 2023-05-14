@@ -25,7 +25,7 @@
     <img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=Ruhangs&show_icons=true">
 </picture>
 
-🌱 I’m currently learning CQUPT, major in computer vision.
+🌱 I’m currently studying at CQUPT, majoring in computer vision-Face Forgery Detection, and I am also self-learning front-end.
 
 <!--START_SECTION:blog-posts-->
 
