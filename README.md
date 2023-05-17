@@ -29,7 +29,7 @@
 
 <!--START_SECTION:blog-posts-->
 
--   2023-04-29 [DDPP 第五章学习笔记]()
+-   2023-05-16 [项目中的权限控制与管理](https://blog.ruhangs.online/Blog/detail/2)
 
 <!--END_SECTION:blog-posts-->
 
