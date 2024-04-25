@@ -29,9 +29,8 @@
 
 <!--START_SECTION:blog-posts-->
 
--   2023-05-16 [项目中的权限控制与管理](https://blog.ruhangs.online/Blog/detail/2)
--   2023-05-23 [深入浅出Promise](https://blog.ruhangs.online/Blog/detail/4)
--   2023-05-23 [事件循环之宏任务与微任务](https://blog.ruhangs.online/Blog/detail/5)
+- [浏览器渲染流程](https://www.ruhangs.online/blog/llqxrlc)
+- [浏览器安全](https://www.ruhangs.online/blog/llqaq)
 
 
 <!--END_SECTION:blog-posts-->
